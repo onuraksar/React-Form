@@ -1,0 +1,7 @@
+{
+    "tailwindCSS.emmetCompletions": true,
+    "emmet.useInlineCompletions": true,
+    "tailwindCSS.includeLanguages": {
+        "plaintext": "['html' , 'javascript']"
+    }
+}
